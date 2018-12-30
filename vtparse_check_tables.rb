@@ -1,5 +1,6 @@
+#!/usr/bin/ruby
 
-require 'vtparse_tables'
+require './vtparse_tables'
 
 #
 # check that for every state, there is a transition defined
